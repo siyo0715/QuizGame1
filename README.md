@@ -31,7 +31,7 @@
 - 言語：JavaScript
 - フレームワーク：Bootstrap
 - エディタ：Visual Studio Code
-- デプロイ：Netryfy
+- デプロイ：GitHubPages
 
 #  私について
 
